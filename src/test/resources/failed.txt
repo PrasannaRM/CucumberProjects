@@ -1,2 +1,0 @@
-src/test/resources/Feature/TariffPlanEx.feature:5:12:21:40:41
-src/test/resources/Feature/DemoExample.feature:11

@@ -1,5 +1,6 @@
 Feature: Validate the Automation Demo Site
 
+
   Scenario: To add the customer details
     Given User is on demo telecom site
     When User enter to add customer
@@ -7,7 +8,6 @@ Feature: Validate the Automation Demo Site
     And Click the submit button
     Then User getting the custumer code
 
-  @smoke
   Scenario: To add the customer details
     Given User is on demo telecom site
     When User enter to add customer

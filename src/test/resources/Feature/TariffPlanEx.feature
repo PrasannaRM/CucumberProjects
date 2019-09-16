@@ -1,4 +1,3 @@
-@sanity 
 Feature: User enter the Tariff plan in automation deom site
 
   @smoke
